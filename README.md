@@ -12,7 +12,7 @@ I am a Full Stack Developer with a strong foundation in the banking industry, sp
 
 ## Work Experience
 
-##Anti-Money Laundering Investigator			                                   		
+## Anti-Money Laundering Investigator			                                   		
   Monzo, London, UK. 
   01/2022 – 11/2022						    
 •	Employed risk-based decision making to assess customers’ accounts for fraudulent trends, showcasing keen attention to detail and effective decision-making skills.
