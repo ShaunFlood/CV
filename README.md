@@ -8,19 +8,29 @@ I am a Full Stack Developer with a strong foundation in the banking industry, sp
 | ---------------------------- | ----------------- | ------------------------------------|
 | **Tempo Fit**                | A webapp to create new spotify playlist via user set tempo. | React, Node, express, Spotify API   |
 | **Destination-unknown**      | A flight price comparison site that gives you itinerary recommendations for your destination using two different holiday APIs. | React, Node, express, Spotify API, Jest, Cypress                             |
-| **Something else worked on** | A webapp to do y. | Ruby                                |
+| **Bank-Tech-Test** | A practice tech test, which was given by the Makers course to create a virtual bank. A key focus during this project was to work on the planning and documentation of the project to create a coherent project that meets the required specification by Makers. | Javascript, Jest                             |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+##Anti-Money Laundering Investigator			                                   		
+  Monzo, London, UK. 
+  01/2022 – 11/2022						    
+•	Employed risk-based decision making to assess customers’ accounts for fraudulent trends, showcasing keen attention to detail and effective decision-making skills.
+•	Investigated and resolved fraud and scam claims, determining their validity for the bank.
+•	Collaborated with colleagues to address queries related to customer accounts and inaccessible systems.
+•	Communicated with external financial organizations through phone call and emails to handle claims.
+•	Provided coaching and guidance to colleagues to enhance their task performance.
+•	Analysed bank accounts for risk assessment and made decisions on whether to offer them banking services.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+## Fraud and Payments Advisor                                                				
+Santander, Liverpool, UK.
+11/2017 - 01/2022
+•	Mentoring to new colleagues through presentations, coaching, shadowing, and procedural guidance.
+•	Utilized problem-solving skills to address customer issues and ensure timely completion of online transfers in compliance with regulations. 
+•	Demonstrated effective decision-making abilities in overseeing payment processing to ensure secure and accurate financial transactions. 
+•	Conveyed customer feedback and concerns to team members to expedite resolutions.
+•	Proficiently managed and resolved complex fraud issues for customers by employing analytical thinking and in-depth knowledge to deliver effective solutions to customers.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
