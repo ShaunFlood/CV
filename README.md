@@ -13,8 +13,7 @@ I am a Full Stack Developer with a strong foundation in the banking industry, sp
 ## Work Experience
 
 ## Anti-Money Laundering Investigator			                                   		
-  Monzo, London, UK. 
-  01/2022 – 11/2022						    
+### Monzo, London, UK. 01/2022 – 11/2022						    
 •	Employed risk-based decision making to assess customers’ accounts for fraudulent trends, showcasing keen attention to detail and effective decision-making skills.
 •	Investigated and resolved fraud and scam claims, determining their validity for the bank.
 •	Collaborated with colleagues to address queries related to customer accounts and inaccessible systems.
@@ -23,7 +22,7 @@ I am a Full Stack Developer with a strong foundation in the banking industry, sp
 •	Analysed bank accounts for risk assessment and made decisions on whether to offer them banking services.
 
 ## Fraud and Payments Advisor                                                				
-Santander, Liverpool, UK.
+### Santander, Liverpool, UK.
 11/2017 - 01/2022
 •	Mentoring to new colleagues through presentations, coaching, shadowing, and procedural guidance.
 •	Utilized problem-solving skills to address customer issues and ensure timely completion of online transfers in compliance with regulations. 
